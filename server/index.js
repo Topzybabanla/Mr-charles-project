@@ -26,6 +26,7 @@ const app = express();
 //3 route handler processes the request
 //4 response is sent back through the middleware
 //5 response is finally sent to the client
+//kkkk
 app.use(
   cors({
     origin: [
